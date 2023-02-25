@@ -1,0 +1,44 @@
+.btn-azul{
+    background-color: #61A0F6 ;
+    color: white
+}
+
+.btn-rojo{
+    background-color: #F84646 ;
+    color: white
+}
+
+.caja{
+    padding: 10px;
+    background-color: rgb(247, 247, 247);
+}
+
+.titulo{
+    color: #61A0F6;
+}
+
+.error{
+    color: rgb(239, 58, 58);
+}
+
+.azulito{
+    color: #0074FF !important;
+}
+
+.gris{
+    color: #3D3B3E;
+}
+
+.verdea{
+    color: #3FCAAC;
+}
+
+.rosa{
+    color: #FF5BA5 !important;
+}
+
+footer{
+    background-color:#61A0F6 !important;
+
+}
+
