@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculadorasubneteoip/static/css/main.7ea622aa.css",
+    "main.js": "/calculadorasubneteoip/static/js/main.98289398.js",
+    "index.html": "/calculadorasubneteoip/index.html",
+    "main.7ea622aa.css.map": "/calculadorasubneteoip/static/css/main.7ea622aa.css.map",
+    "main.98289398.js.map": "/calculadorasubneteoip/static/js/main.98289398.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea622aa.css",
+    "static/js/main.98289398.js"
+  ]
+}
